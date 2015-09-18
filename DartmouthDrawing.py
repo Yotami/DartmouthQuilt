@@ -26,6 +26,6 @@ def draw_quilt():
 
     # Dartmouth Hall body
     set_fill_color(.933, .969, .863)
-    draw_rectangle(200, 450, 400, 200)
+    draw_rectangle(200, 500, 400, 150)
 
 start_graphics(draw_quilt)
