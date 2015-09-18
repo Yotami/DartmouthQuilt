@@ -8,6 +8,8 @@
 
 # Design note:  This file was originally split into cs1qt and cs1lib modules; that was probably a cleaner design, but I have combined the files for simplicity of installation.  (DJB)
 
+# Altered by Ilona Kiss and Alana Juric on 8/18/15
+
 # library version number
 __version__ = 2.1
 
