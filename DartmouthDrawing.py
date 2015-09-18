@@ -23,6 +23,10 @@ def draw_quilt():
     disable_stroke()
     set_fill_color(0, .322, 0)
     draw_rectangle(40, 650, 720, 110)
+    
+    # roof
+    set_fill_color(.204, .486, .204)
+    draw_rectangle(200, 450, 400, 50)
 
     # Dartmouth Hall body
     set_fill_color(.933, .969, .863)
